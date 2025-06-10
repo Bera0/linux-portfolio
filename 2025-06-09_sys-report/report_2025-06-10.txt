@@ -1,4 +1,31 @@
-📅 날짜: Tue Jun 10 17:09:19 JST 2025
+📅 날짜: Tue Jun 10 17:15:54 JST 2025
 🖥 호스트명: Bera
 👤 현재 사용자: bera
-⏱ 시스템 업타임:  17:09:19 up 5 min,  1 user,  load average: 0.08, 0.03, 0.00
+
+==== 메모리 정보 ====
+               total        used        free      shared  buff/cache   available
+Mem:           7.4Gi       537Mi       6.9Gi       3.5Mi       162Mi       6.9Gi
+Swap:          2.0Gi          0B       2.0Gi
+
+==== 디스크 사용량 ====
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdd       1007G  1.8G  954G   1% /
+rootfs          3.8G  2.7M  3.7G   1% /init
+none            3.8G     0  3.8G   0% /dev/shm
+none            3.8G  552K  3.8G   1% /run
+none            3.8G     0  3.8G   0% /run/lock
+none            3.8G   76K  3.8G   1% /run/user
+tmpfs           3.8G   16K  3.8G   1% /run/user/1000
+drivers         475G  435G   41G  92% /usr/lib/wsl/drivers
+none            3.8G     0  3.8G   0% /usr/lib/wsl/lib
+none            3.8G  4.0K  3.8G   1% /mnt/wsl
+none            3.8G  100K  3.8G   1% /mnt/wslg/versions.txt
+none            3.8G  100K  3.8G   1% /mnt/wslg/doc
+none            3.8G     0  3.8G   0% /usr/lib/modules/6.6.87.1-microsoft-standard-WSL2
+C:\             475G  435G   41G  92% /mnt/c
+
+==== 시스템 가동 정보 ====
+ 17:15:54 up 12 min,  1 user,  load average: 0.00, 0.00, 0.00
+
+==== 로그인 사용자 ====
+bera     pts/1        2025-06-10 17:03
